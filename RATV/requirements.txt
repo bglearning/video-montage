@@ -1,0 +1,11 @@
+transformers
+wandb
+timm
+einops
+jsonlines
+loguru
+moviepy
+open_clip_torch
+salesforce-lavis>=1.0.0
+git+https://github.com/openai/CLIP.git
+git+https://github.com/bglearning/video-encode.git
